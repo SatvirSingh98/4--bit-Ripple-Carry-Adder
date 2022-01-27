@@ -1,1 +1,1 @@
-# 4-bit-Ripple-Carry-Adder
+# 4-bit Ripple Carry Adder
